@@ -21,6 +21,16 @@ hash = "8681d8ad74e0565aba26fe889633113f7ded72571171975cb8e46ad0d8d58c79"
 metafile = true
 
 [[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "713e829147d71d036f1d81486e4e46c18fab232267334c23347abac2ec5ad042"
+metafile = true
+
+[[files]]
+file = "mods/carpet-fixes.pw.toml"
+hash = "24baebf1b59fa03434868a71dfba95d03449d22786260b294a61ae15c516e448"
+metafile = true
+
+[[files]]
 file = "mods/carpet-igny-addition.pw.toml"
 hash = "034010d3dfbd8a2a20ddc17212be3c05b50a557d080ad1d3f30efb0dc7a06cf1"
 metafile = true
@@ -33,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/carpet.pw.toml"
 hash = "9893fe702bc0669b40982f197d14cd227e23c62550e2d84af9f0db346806caff"
+metafile = true
+
+[[files]]
+file = "mods/chunk-debug.pw.toml"
+hash = "79ec82a14d69d1cfab7c7ad11a030154b087fedb4f53bdf4994b3467114f9a54"
 metafile = true
 
 [[files]]
@@ -76,6 +91,11 @@ hash = "6f56d21135552569ce55e2a8e9a575423da69955685f9e885069d74cd13b7352"
 metafile = true
 
 [[files]]
+file = "mods/joacarpet.pw.toml"
+hash = "436a83d662c40f59bbf43c57b9d9c681da0c6c100118f3a80f6c0ae2c220f486"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "954646f4ee1509ca05e3d8ea9401d92c182db472fdd9936aa81dd2146a237eeb"
 metafile = true
@@ -98,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
 hash = "4844eeacb69a87292556f478d3425e1d0255bbafef5b9f483d5652208313b449"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "af6cdd0fcc0d327c5d26c3c0fb49cf238d572be9985420aba71a4f2bddc01583"
 metafile = true
 
 [[files]]
@@ -188,6 +213,16 @@ metafile = true
 [[files]]
 file = "mods/worldthreader.pw.toml"
 hash = "6b0dc284fef643b8526be8cf22ab3a8325bd0031b262592def251e27d7e2f161"
+metafile = true
+
+[[files]]
+file = "mods/x-backup.pw.toml"
+hash = "9c7b33ab379651c12501f2f0f4dd5504d69f0d6a9b6e4cf946185fff4d792af2"
+metafile = true
+
+[[files]]
+file = "mods/yaca.pw.toml"
+hash = "000cf796797d5e942a55735cef241c0e004329eda28e8331dc15fb2438b9bc51"
 metafile = true
 
 [[files]]

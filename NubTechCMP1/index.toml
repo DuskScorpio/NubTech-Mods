@@ -116,11 +116,6 @@ hash = "7c0f365995f3be31ca63741c3b236da945717bfaf5db8cfa9044a93aab3c5f9a"
 metafile = true
 
 [[files]]
-file = "mods/modernfix-mvus.pw.toml"
-hash = "4844eeacb69a87292556f478d3425e1d0255bbafef5b9f483d5652208313b449"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "af6cdd0fcc0d327c5d26c3c0fb49cf238d572be9985420aba71a4f2bddc01583"
 metafile = true
@@ -153,11 +148,6 @@ metafile = true
 [[files]]
 file = "mods/redstone-multimeter.pw.toml"
 hash = "80f875b0d9dc92af4c357792da3ebb88ae52c904b508843748ccbd2ac970d37d"
-metafile = true
-
-[[files]]
-file = "mods/scalablelux.pw.toml"
-hash = "a3ef637ed309377c4da2ea6cd588be9ebdb1078431e41881fea7a51bd6885cc0"
 metafile = true
 
 [[files]]
@@ -208,11 +198,6 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "8a7bab663c386b0e31a5730d4c585baae859ea47ff716fa30fd8d0103ccba1a4"
-metafile = true
-
-[[files]]
-file = "mods/worldthreader.pw.toml"
-hash = "6b0dc284fef643b8526be8cf22ab3a8325bd0031b262592def251e27d7e2f161"
 metafile = true
 
 [[files]]

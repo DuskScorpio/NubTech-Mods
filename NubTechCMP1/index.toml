@@ -166,6 +166,11 @@ hash = "c6a5c6afaf276bde5c35adb34e21155112b7defd08b83d95a81e435bc6530c42"
 metafile = true
 
 [[files]]
+file = "mods/starlight.pw.toml"
+hash = "75e3fb7d66b8e29bfc31b39e123c62c67fcb11d4614f2c6ac16df18a1b5e3eaf"
+metafile = true
+
+[[files]]
 file = "mods/suggestion-tweaker.pw.toml"
 hash = "c28bc347e2c37caaf4ce0da6318f235bac53760dd9f5a2e6a558cbcd9a64f9c6"
 metafile = true

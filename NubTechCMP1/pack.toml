@@ -1,0 +1,13 @@
+name = "NubTechCMP1"
+author = "Scorpio"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "347f3af2475d40b6600422587f258f9f4393cef2b7475ffd61acc4178cc106ec"
+
+[versions]
+fabric = "0.19.1"
+minecraft = "1.20.4"

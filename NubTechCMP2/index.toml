@@ -16,14 +16,6 @@ hash = "22703540d8f55ca7940fe7826402cab4587bef4a6c9c2b99bfd0a11ebd4cf820"
 metafile = true
 
 [[files]]
-file = "mods/capture-playback.pw.toml.disabled"
-hash = "59c790ee67eff79864acf423b03f8e2adf061c30cb2a7c55222e172e345dc46f"
-
-[[files]]
-file = "mods/carpet-igny-addition.pw.toml.disabled"
-hash = "e8cc7d1db3cb771d22e4b638c9be6b83fdac88cdff3f267b72f1ca5f13fbb9c5"
-
-[[files]]
 file = "mods/carpet-tis-addition.pw.toml"
 hash = "cb593d873f1733c1b1760de243aa0b2238320b4e7349ff62068bed39f7c3e285"
 metafile = true
@@ -64,21 +56,9 @@ hash = "289599ac70b0f0a9a0055f1bd10fb7e2c38c540c3ef49db8779c5c3988a7455c"
 metafile = true
 
 [[files]]
-file = "mods/g4mespeed.pw.toml.disabled"
-hash = "558891db3c6595025b4bc8d297e7daede207c9414fde78eb2fe394d34c74ff62"
-
-[[files]]
 file = "mods/invview.pw.toml"
 hash = "0184511072b685bdf42cf8ce9f087d8566eeff02d1213968a4e31bfc25c676f5"
 metafile = true
-
-[[files]]
-file = "mods/krypton.pw.toml.disabled"
-hash = "d52187679aae683d1db39eeda0725823b924ffe9d74623f10221a3d87bac2c95"
-
-[[files]]
-file = "mods/litematica-server-paster.pw.toml.disabled"
-hash = "228efa737d9d07ea3f51120939d19737d42520a9852138444c695cf792f05beb"
 
 [[files]]
 file = "mods/lithium.pw.toml"
@@ -106,10 +86,6 @@ hash = "51e3a1ac963e190be376e72b24d4e8f772129ee1234e43ec92c113660786cf0b"
 metafile = true
 
 [[files]]
-file = "mods/owo-lib.pw.toml.disabled"
-hash = "01cce2adecdc5e33fba69ff99c5a87f847733a0238f8e94ad2c9841cb26ec2ba"
-
-[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "dee7a005fbd32004a27ace52e8b9d9e586fa3b0ec608698d6f2fd4675ef3f35d"
 metafile = true
@@ -120,17 +96,9 @@ hash = "b234ade7fd54bb9d99c27769cd1635b18835752676d0cdd0a29af2b4146251a8"
 metafile = true
 
 [[files]]
-file = "mods/redstone-multimeter.pw.toml.disabled"
-hash = "4e28cdd947e2fffa245a3654700a7ac4d5adb475260d4da1e4326950b3ef3eb4"
-
-[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "8635a6f88d0f0e9487299a0da5507bb9f1685969a8b02772efdba6df3d9c0afa"
 metafile = true
-
-[[files]]
-file = "mods/server-replay.pw.toml.disabled"
-hash = "967fdea45f8b6f0c796a6fc586a8797c490a494fc243b22143590b652bd1521f"
 
 [[files]]
 file = "mods/servux.pw.toml"
@@ -141,10 +109,6 @@ metafile = true
 file = "mods/spark.pw.toml"
 hash = "c7b6e4a7666e9e64a70df0b550db2e25f7150d4c1c2c2e79e81dfbc036ce3a25"
 metafile = true
-
-[[files]]
-file = "mods/suggestion-tweaker.pw.toml.disabled"
-hash = "090c1ffa1815f260b19353ee892f4d519a489803c88f47bcebb66f5d6409e883"
 
 [[files]]
 file = "mods/syncmatica.pw.toml"
@@ -165,10 +129,6 @@ metafile = true
 file = "mods/viaversion.pw.toml"
 hash = "e5be4bb4a384739740aaca52f9afc634f2f8f670e00f86f749e28ecb239ce39b"
 metafile = true
-
-[[files]]
-file = "mods/worldedit-hang-fix.pw.toml.disabled"
-hash = "680d2ecec6f47b90fcaa9827d2e6ac6f4c7a7725fff1e4904ce8cd793e2a42c6"
 
 [[files]]
 file = "mods/worldedit.pw.toml"

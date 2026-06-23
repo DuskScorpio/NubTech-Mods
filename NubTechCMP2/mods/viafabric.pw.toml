@@ -1,13 +1,13 @@
 name = "ViaFabric"
-filename = "ViaFabric-0.4.21+138-1.14-1.21.jar"
+filename = "ViaFabric-0.4.21+167-26.x.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YlKdE5VK/versions/j78qte9T/ViaFabric-0.4.21%2B138-1.14-1.21.jar"
+url = "https://cdn.modrinth.com/data/YlKdE5VK/versions/z3OlAuMU/ViaFabric-0.4.21%2B167-26.x.jar"
 hash-format = "sha512"
-hash = "164f91ce5ba2989d5ad3e09b87a07f398b0cd3a0b186f69410c616ed4da7adcdb39e2747d171ceef1dc8d7c4902817d69681ac5d1c0d60873c1d7bd71dee23db"
+hash = "b4eb626b5284b42afc24cbae410225722e2b212a29fb09b08d6e0c74b9a8bc13f43626a8c1c276e2fb56d60e7b90fb3cd999fd91440ff4a389ca25e1f3ee4f49"
 
 [update]
 [update.modrinth]
 mod-id = "YlKdE5VK"
-version = "j78qte9T"
+version = "z3OlAuMU"

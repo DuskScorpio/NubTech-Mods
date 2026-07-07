@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "22703540d8f55ca7940fe7826402cab4587bef4a6c9c2b99bfd0a11ebd4cf820"
+hash = "951f09d189fbcf17b4cde0524e9cd1e37da9a3c666fa47606ca61b55ec1c287e"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fdc6309bf3420b7e358737b05877335191021e8a2376def243deb0e521797166"
+hash = "fa280daf316543afff2f69db87c655fdac0eab4a0455ff055714d43313247785"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "40f3c3ed0be22a65ad52e0f89c905e59b57d4ec0941c3d6a2c702af4713213ad"
+hash = "d655305d7933a11ed9c0c8edb57868c053b9c995c121c00b47061cf0e098c92a"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "ca48f91f6b339797f8186d7adbb60581afac53f1a073f116fb4b1c08a29fa31b"
+hash = "ba528e27fc27b75a1997936bba35cf7d14c4d4d203aab5c067d5ec3ffcd0cfb6"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "51e3a1ac963e190be376e72b24d4e8f772129ee1234e43ec92c113660786cf0b"
+hash = "00129db538fe3591d87ba64731ca1f9daf3e538185657ee0fcf56b52f0715e5b"
 metafile = true
 
 [[files]]
@@ -97,12 +97,12 @@ metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "8635a6f88d0f0e9487299a0da5507bb9f1685969a8b02772efdba6df3d9c0afa"
+hash = "3392508587c2cc0bf99ba82fcb02936d0d8d636537237d6aa12ae30cb03c4522"
 metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "031ef9816d487f498c9bb970cbbab06823685ad636e58d1159f7c13516f2ed48"
+hash = "013c8d614115cd07c563eb61ecd5c3ad6902f0b1353f61810d612800e2c0ae12"
 metafile = true
 
 [[files]]
@@ -117,22 +117,22 @@ metafile = true
 
 [[files]]
 file = "mods/viabackwards.pw.toml"
-hash = "f9e3dfccdc6fb1857218b884b54066edf24cd55c31bfb0de9039b3c8d4bf775c"
+hash = "18315a7d251cab42e5ff0d74aaab37b1df8266c7799d221ce765388519ead9b4"
 metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "c5f585e7bbddfef6301d676cd2f5f5cc097730cd6b973a483452ed139a0b96cf"
+hash = "7f6bc80c4faa19a2f08891a13803ad97dd9d77b783c12261410778dabb12ae8d"
 metafile = true
 
 [[files]]
 file = "mods/viaversion.pw.toml"
-hash = "e5be4bb4a384739740aaca52f9afc634f2f8f670e00f86f749e28ecb239ce39b"
+hash = "344bda94dceb1de452640422122031cff59fa81a29f957fa21fb816c3be75981"
 metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "ecfb7f2d8a06c81329ca5c97c8609f5d2994854d863731f30ba40ca867330cef"
+hash = "7a59dd464a9c29e699584255c4ff63befc081dd84bbd9ca5bd7406f760ae1259"
 metafile = true
 
 [[files]]
@@ -147,5 +147,5 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "fcce24faba0fd75de3687756350b3b1678be7c8775a1e35abf67632711d45195"
+hash = "937c6ca957708cd6bd580a493c48652bf4e1cd3105dda5256424dcf7bf349140"
 metafile = true

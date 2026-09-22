@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "12d96954554a58d001e36b50eb9343ad8306e043799142b183523575804dbaa0"
+hash = "013c8d614115cd07c563eb61ecd5c3ad6902f0b1353f61810d612800e2c0ae12"
 metafile = true
 
 [[files]]
@@ -143,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "ced90938fd1163665019ffdc09a3c44f1b2b0eef963ac1e8abac5ee410978612"
+metafile = true
+
+[[files]]
+file = "mods/zconfig.pw.toml"
+hash = "8078347c8e2fd79bbb3e414fd36bc319e2d043f8d3b955c14f430fee0b5d6843"
 metafile = true
 
 [[files]]
